@@ -1,2 +1,3 @@
 s = 'Hello world'
-print(s)
+d = 'git test'
+print(s, d)
